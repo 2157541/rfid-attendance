@@ -1,0 +1,12 @@
+.container {
+	color: #E8E9EB;
+	background: #222;
+	border: #555652 1px solid;
+	padding: 5px;
+}
+
+.chart-style{
+	width: 100%; 
+	background: white; 
+	border: 1px #555652;
+}

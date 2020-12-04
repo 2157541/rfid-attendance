@@ -1,0 +1,3 @@
+sched_id,sched_date,sched_time_start,sched_time_end,recollection_master,venue,term,academic_year,recollection_description,year_level,course_id
+1001,2020-11-28,8:00:00,16:00:00,,"Frances Gevers Hall, Slu Main",1st,2019-2020,,1st Year,101
+1112,2020-11-30,8:00:00,16:00:00,,"Frances Gevers Hall, Slu Main",1st,2019-2020,,2nd Year,101

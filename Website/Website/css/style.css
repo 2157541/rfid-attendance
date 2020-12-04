@@ -1,0 +1,245 @@
+.container{
+	margin-top: 6%;
+}
+
+.vertical-nav {
+  min-width: 17rem;
+  width: 17rem;
+  height: 100vh;
+  position: fixed;
+  top: 15%;
+  left: 0;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+}
+.navbar{
+	background-color:#607fa0;
+}
+.nav-item{
+	font-size: 18px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+.header{
+margin-top: 5%;
+margin-bottom: 5%;
+}
+
+h1{
+	color: #25588c;
+	text-shadow: 1px 1px #000000;
+}
+
+h1 {
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+	font-size: 36px;
+	font-style: normal;
+	font-variant:normal;
+	font-weight: 700;
+	line-height: 26.4px;
+}
+h3 {
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: 15.4px;
+}
+p {
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+blockquote {
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+	font-size: 21px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+
+pre {
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 18.5714px;
+}
+.nav-link a{
+	color: white;
+}
+
+.nav-link {
+    display: inline;
+	margin-right: 50px;
+}
+
+.dropdown-toggle::after {
+    display: none;
+}
+
+.dropdown-toggle::before {
+  display: inline-block;
+}
+
+.nav-item a:hover{
+	background-color: #324961;
+}
+
+
+.navbar-nav li.active > a {
+	color: #fff;
+	border-bottom: 3px solid #324961;
+}
+
+.table{
+	cellspacing: 0;
+	width: 100%
+
+}
+
+.btn-circle.btn-sm {
+	width: 30px;
+	height: 30px;
+	border-radius: 25px;
+	font-size: 15px;
+	text-align: center;
+}
+
+.logo img{
+	margin-left: 50px;
+}
+
+hr.line {
+  margin-top: -1px;
+  border: 2px solid #656b4d;
+}
+
+.custom-select {
+	margin-top: -5px;
+	margin-left: 3px;
+}
+
+.card{
+	width: 80%;
+	border-width: 2px;
+}
+
+.form-check-input{
+	margin-left: -14px;
+}
+
+.card-header{
+	color: #6ab8d1;
+}
+.cardcolor {
+	background-color: #385178;
+	color: white;
+}
+
+.btn-circle {
+    border-radius: 30px;
+    text-align: center;
+}
+
+.margin-below{
+	margin-top: 1%;
+	margin-below: 2%;
+}
+
+.margin-top{
+	margin-top: 6px;
+}
+
+.margin-top2{
+	margin-top: 6px;
+	margin-left: 47%;
+
+}
+
+.viewlist-position{
+	margin-top: 30%;
+	margin-left: 15%;
+}
+
+.position-left{
+	margin-left: 28%;
+}
+
+hr.line2{
+	border-top: 1px dashed blue;
+}
+
+.modal-footer{
+	text-align: center!important;
+}
+
+
+/* Drag and Drop Box layout*/
+.upload-drag-drop{
+  height: 180px;
+  border-width: 3px;
+  margin-bottom: 4%;
+  margin-top: 4%;
+}
+
+/* Drag and Drop Box Design*/
+.upload-drag-drop{
+  color: #ccc;
+  border-style: dashed;
+  border-color: #ccc;
+  line-height: 975%;
+  text-align: center;
+  font-size: 18px;
+}
+
+/*Drag hover effect*/
+.upload-drag-drop.drop{
+	border-color:#7290ff;
+	color:#222;
+}
+
+.table-row{
+cursor:pointer;
+}
+
+.dropdown-menu {
+  right: 0px;
+  left: auto;
+}
+
+.card-footer {
+    background-color: white!important;
+}
+
+
+​#button{
+position: relative;
+left:-1px;
+background-color:#446655;
+}​
+
+#inputfield {
+	background-color: blue;
+	border-color: gray;
+}
+
+#name{
+	position: absolute;
+	z-index: 1;
+	top: 35%;
+	left: 39%;
+	opacity: 0.7;
+}
+
+#name2{
+	position: absolute;
+	z-index: 1;
+	top: 47%;
+	left: 30%;
+	opacity: 0.7;
+}
